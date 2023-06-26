@@ -11,7 +11,7 @@ This application allows you to easily type and save notes where you can use them
 - [Questions](#questions)
 
 ## Usage
-It is simply used by running the html file or by clicking the deployable link.
+It is simply used by running the html file or by clicking the deployable link. https://super-note-taker-2db027266a0f.herokuapp.com/
 
 ## Installation
 None needed, just click the deployable link.
